@@ -2,4 +2,8 @@ hello git demo
 瞳景哥
 nothing to commit (create/copy files and use "git add" to track)
 nothing to commit (create/copy files and use "git add" to track)
+<<<<<<< HEAD
 第三版
+=======
+我也是Hit 合并过来的
+>>>>>>> hot-hix
